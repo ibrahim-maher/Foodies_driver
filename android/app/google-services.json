@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "377057037115",
+    "firebase_url": "https://super-talab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "super-talab",
+    "storage_bucket": "super-talab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377057037115:android:2308de184becacdfe3451e",
+        "android_client_info": {
+          "package_name": "com.example.super_talab_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377057037115-o8c1q1g8cvsvek1vvs2pk0h4v0nnobpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.super_talab_user",
+            "certificate_hash": "dd5ad715e814015606ee78fa46a15f843dda378c"
+          }
+        },
+        {
+          "client_id": "377057037115-kd2pv05m7ot9fma26lnvs3s3ussg51cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6WExVslz9w7kN-AZf0dThyE3F7wYCGQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377057037115-kd2pv05m7ot9fma26lnvs3s3ussg51cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377057037115:android:b67c67c15e5754e6e3451e",
+        "android_client_info": {
+          "package_name": "com.foodies.driver.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377057037115-kd2pv05m7ot9fma26lnvs3s3ussg51cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6WExVslz9w7kN-AZf0dThyE3F7wYCGQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377057037115-kd2pv05m7ot9fma26lnvs3s3ussg51cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
